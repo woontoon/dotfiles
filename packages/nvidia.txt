@@ -447,4 +447,4 @@ zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
 zsh-theme-powerlevel10k
-nordic-bluish-theme-git
+brightnessctl
