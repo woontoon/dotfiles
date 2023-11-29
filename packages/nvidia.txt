@@ -32,8 +32,7 @@ calibre
 carla
 catppuccin-cursors-mocha
 catppuccin-gtk-theme-mocha
-catppuccin-mocha-grub-theme-git
-cava-git
+cava
 ccache
 cdrtools
 cgmanager
@@ -56,7 +55,6 @@ dmidecode
 dnsmasq
 dotnet-runtime-3.1-bin
 dwarfs-bin
-dxvk-async-git
 edk2-ovmf
 efibootmgr
 efm-langserver
@@ -66,13 +64,11 @@ expac
 extra-cmake-modules
 fakeroot
 fantome-gtk
+fcitx5
 fcitx5-configtool
 fcitx5-gtk
 fcitx5-lua
 fcitx5-mozc
-fcitx5-qt4-git
-fcitx5-qt5-git
-fcitx5-qt6-git
 ffmpeg
 ffmpegthumbnailer
 ffmpegthumbs
@@ -165,7 +161,6 @@ libnss_nis
 libplist
 libreoffice-fresh
 librewolf-bin
-librocket-git
 libtiff5
 libtool
 libxft-bgra
@@ -225,7 +220,7 @@ nvidia-settings
 nvtop
 obs-studio
 ocl-icd
-oh-my-zsh-git
+oh-my-zsh
 okular
 openal
 openbsd-netcat
@@ -260,7 +255,6 @@ pavucontrol
 pcmanfm
 picard
 picom
-pince-git
 pinta
 piper
 pipewire-alsa
@@ -276,7 +270,6 @@ poppler-qt5
 postman-bin
 powerline-common
 powerline-fonts
-protontricks-git
 pyqt4-common
 python-aubio
 python-axolotl
@@ -454,3 +447,4 @@ zsh
 zsh-autosuggestions
 zsh-syntax-highlighting
 zsh-theme-powerlevel10k
+nordic-bluish-theme-git
