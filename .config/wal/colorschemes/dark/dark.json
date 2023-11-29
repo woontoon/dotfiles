@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/realnsa/Pictures/bg.png",
+    "alpha": "100",
+    "special": {
+        "background": "#13180e",
+        "foreground": "#e2e9f4",
+        "cursor": "#e2e9f4"
+    },
+    "colors": {
+        "color0": "#13180e",
+        "color1": "#758890",
+        "color2": "#8A9CAE",
+        "color3": "#99ADC5",
+        "color4": "#A8B9D1",
+        "color5": "#B8C5DE",
+        "color6": "#CBD8F2",
+        "color7": "#e2e9f4",
+        "color8": "#9ea3aa",
+        "color9": "#758890",
+        "color10": "#8A9CAE",
+        "color11": "#99ADC5",
+        "color12": "#A8B9D1",
+        "color13": "#B8C5DE",
+        "color14": "#CBD8F2",
+        "color15": "#e2e9f4"
+    }
+}
