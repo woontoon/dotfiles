@@ -448,3 +448,4 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 zsh-theme-powerlevel10k
 brightnessctl
+nordic-bluish-accent-theme
