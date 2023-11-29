@@ -1,0 +1,5 @@
+#!/bin/sh
+
+# Script to take screenshot, put on clipboard and save it in screenshot folder
+
+scrot -fs -b /home/realnsa/Pictures/screenshots/$(date +%F-%H%M%S).png -e 'xclip -selection clipboard -t image/png -i $f'

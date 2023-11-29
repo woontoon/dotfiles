@@ -1,0 +1,4 @@
+#!/usr/bin/python2
+# EASY-INSTALL-SCRIPT: 'mido==1.2.10','mido-serve'
+__requires__ = 'mido==1.2.10'
+__import__('pkg_resources').run_script('mido==1.2.10', 'mido-serve')

@@ -1,0 +1,2 @@
+#!/bin/zsh
+sg nointernet "$@"

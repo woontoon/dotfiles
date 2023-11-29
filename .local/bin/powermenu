@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# Script to call custom rofi menu for power-related functions
+
+powermenu=$(echo -e "shutdown\nreboot\nsuspend\ntty\nttylock" | dmenu -r -p "powermenu:")
+
+case "$powermenu" in
+        shutdown) shutdown now ;;
+        reboot) reboot ;;
+        suspend) systemctl suspend ;;
+        tty) loginctl lock-session;;
+        ttylock) xsetroot -name "fsignal:1" ;; # signal 1 to fsignal for quitting dwm
+esac
