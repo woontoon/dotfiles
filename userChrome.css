@@ -1,0 +1,6 @@
+/*@import "firefox-nordic-theme/userChrome.css";
+/* hides the native tabs */
+#TabsToolbar {
+  visibility: collapse;
+  opacity: .2 !important;
+}
